@@ -1,0 +1,23 @@
+{
+  "name": "api-creation",
+  "version": "1.0.0",
+  "description": "sample api creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNEHAL311998/api_practice.git"
+  },
+  "author": "snehal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SNEHAL311998/api_practice/issues"
+  },
+  "homepage": "https://github.com/SNEHAL311998/api_practice#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
